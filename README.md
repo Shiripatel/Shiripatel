@@ -1,5 +1,5 @@
 # 💫 About Me:
-Data Analytics and Financial Modeling professional with 9+ years of experience analyzing company financials, building valuation models, and delivering high-quality financial datasets for decision-making. Skilled in DCF, comparable valuation, multi-scenario forecasting, and interpreting financial statements across sectors. Strong technical foundation in Python (Pandas), SQL, data profiling, and exploratory data analysis, automated workflows, and scalable financial data products. Adept at identifying key value drivers, assessing industry trends, resolving data quality issues, and translating complex financial insights into actionable outputs for stakeholders<br><br>SQL, Python, R, databrics, snowflake, sap s4/hana, oracle, altryx
+Management Consultant - trying to build something meaningfull
 
 
 # 💻 Tech Stack:
